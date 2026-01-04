@@ -1,8 +1,8 @@
 # Technical Walk-through: Supersonic Conical Flow Simulation
 
-## 1. Project Overview & Motivation
+## 1. Description
 
-As an aerospace student, I chose this project to move beyond the 2D simplifications of oblique shock theory and explore the 3D complexities of conical flow. In supersonic flight, the flow field behind a conical shock is significantly different from that of a wedge, as the streamlines must compress further to follow the body's surface. My goal was to utilize numerical integration to understand how local flow properties—like Mach number and thermodynamic ratios—adjust between the shock wave and the cone surface.
+I chose this project to move beyond the 2D simplifications of oblique shock theory and explore the 3D complexities of conical flow. In supersonic flight, the flow field behind a conical shock is significantly different from that of a wedge, as the streamlines must compress further to follow the body's surface. My goal was to utilize numerical integration to understand how local flow properties—like Mach number and thermodynamic ratios—adjust between the shock wave and the cone surface.
 <br />
 
 * **The Problem:** Simulate supersonic flow at Mach 5 past a cone with a $12^{\circ}$ shock wave angle.
